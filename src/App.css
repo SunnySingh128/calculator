@@ -1,0 +1,12 @@
+.container{
+border:2px solid black;
+width:30%;
+height:450px;
+ display:grid;
+  background-color:black;
+  justify-content:center;
+  margin-top:70px;
+}
+body{
+  background-color:black;
+}
